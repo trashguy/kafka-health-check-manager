@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QRdHiKCudO1fw/48TJ8rbxwkcoM=",
+			"path": "github.com/kataras/iris",
+			"revision": "f6a9553f98bda76be5757f5dcd1a78fc10ac182b",
+			"revisionTime": "2018-06-27T10:30:28Z"
+		}
+	],
+	"rootPath": "github.com/trashguy/kafka-health-check-manager"
+}

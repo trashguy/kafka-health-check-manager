@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Hello Page</title>
+</head>
+<body>
+<table>
+    {{#each brokers}}
+        <tr>
+            <td><a href="/broker/{{this.Id}}">{{this.Broker}}</a></td>
+            <td>{{this.Status}}</td>
+        </tr>
+    {{/each}}
+</table>
+</body>
+</html>

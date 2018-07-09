@@ -4,3 +4,4 @@ kafka-health-check-manager
 vendor/*/
 compatibility/vendor/*/
 dist/*
+config.yml
